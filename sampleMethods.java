@@ -14,3 +14,4 @@ public class sampleMethods {
 		div(10,5);
 		}
 	}
+// overloading example 
